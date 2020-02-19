@@ -9,7 +9,7 @@ D:/ParticlesCommunityDetection/data
 
 Too start docker run
 ```
-./run.sh
+./start.sh
 ```
 
 Enter docker container
